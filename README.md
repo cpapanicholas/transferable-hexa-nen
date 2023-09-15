@@ -21,7 +21,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-LINK: https://github.com/cpapanicholas/transferable-hexa-nen.git
+LINK: 
 
 
 ![Alt text](image-1.png)
