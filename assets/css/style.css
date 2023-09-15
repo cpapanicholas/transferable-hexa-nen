@@ -15,7 +15,7 @@ body {
     color: #ffffff;
 }
 
- h1 {
+ .header h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -90,43 +90,12 @@ p {
   
 }
 
-<<<<<<< HEAD
-section h3{
-=======
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
- h3 {
->>>>>>> bc075158abb8334e7f2d1ccb277a341374bb25c1
+.benefit h3{
     margin-bottom: 10px;
     text-align: center;
 }
 
-<<<<<<< HEAD
-.img {
-=======
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
->>>>>>> bc075158abb8334e7f2d1ccb277a341374bb25c1
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
